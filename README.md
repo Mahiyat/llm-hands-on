@@ -1,6 +1,6 @@
 # Large Language Model (LLM) Hands On
 
-Reference Book: Mastering Large Language Models
+Reference Book: Mastering Large Language Models<br>
 Code Explanation: [Link](https://chatgpt.com/share/c9859544-85b4-4cbc-9998-015096c9e627)
 
 ## Contents
