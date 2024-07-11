@@ -12,3 +12,18 @@ Code Explanation: [Link](https://chatgpt.com/share/c9859544-85b4-4cbc-9998-01509
 ### Statistical Language Models
 *    [Simple Implementation of Bigram Language Model](https://github.com/Mahiyat/llm-hands-on/blob/master/Statistical%20Language%20Models/Simple%20Implementation%20of%20Bigram%20LM.ipynb)
 *    [Ngrams of Sentence](https://github.com/Mahiyat/llm-hands-on/blob/master/Statistical%20Language%20Models/Ngrams%20of%20Sentence.ipynb)
+
+### Data Preprocessing
+*    [Basic Data Cleaning](https://github.com/Mahiyat/llm-hands-on/blob/master/Data%20Preprocessing/Basic%20Data%20Cleaning.ipynb)
+*    [Entity Detection](https://github.com/Mahiyat/llm-hands-on/blob/master/Data%20Preprocessing/Entity%20Detection.ipynb)
+*    [Anonymization](https://github.com/Mahiyat/llm-hands-on/blob/master/Data%20Preprocessing/Anonymization.ipynb)
+*    [Text Pre-processing Example](https://github.com/Mahiyat/llm-hands-on/blob/master/Data%20Preprocessing/Text%20Pre-processing%20Example.ipynb)
+*    [Parts-of-Speech (POS) tags](https://github.com/Mahiyat/llm-hands-on/blob/master/Data%20Preprocessing/Parts-of-Speech%20(POS)%20tags.ipynb)
+*    [Dependency Parsing](https://github.com/Mahiyat/llm-hands-on/blob/master/Data%20Preprocessing/Dependency%20Parsing.ipynb)
+
+### Neural Networks
+*    [Feedforward Neural Network to Solve XNOR Problem](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/Feedforward%20Neural%20Network.ipynb)
+*    [LSTM for IMDB movie review sentiment classification](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/LSTM.ipynb)
+*    [GRU for IMDB movie review sentiment classification](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/GRU.ipynb)
+*    [Bidirectional RNN for IMDB movie review sentiment classification](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/Bidirectional%20RNN.ipynb)
+*    [CNN Based Language Model Architecture](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/CNN%20Based%20Language%20Model%20Architecture.ipynb)
