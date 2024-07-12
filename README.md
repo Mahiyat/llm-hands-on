@@ -1,6 +1,6 @@
 # Large Language Model (LLM) Hands On
 
-Reference Book: Mastering Large Language Models<br>
+Reference Book: Mastering Large Language Models [[Google Books Preview](https://www.google.com.bd/books/edition/Mastering_Large_Language_Models/xp_6EAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)] [[Github Link](https://github.com/bpbpublications/Mastering-Large-Language-Models)]<br>
 Code Explanation: [Link](https://chatgpt.com/share/c9859544-85b4-4cbc-9998-015096c9e627)
 
 ## Contents
@@ -27,3 +27,7 @@ Code Explanation: [Link](https://chatgpt.com/share/c9859544-85b4-4cbc-9998-01509
 *    [GRU for IMDB movie review sentiment classification](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/GRU.ipynb)
 *    [Bidirectional RNN for IMDB movie review sentiment classification](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/Bidirectional%20RNN.ipynb)
 *    [CNN Based Language Model Architecture](https://github.com/Mahiyat/llm-hands-on/blob/master/Neural%20Networks/CNN%20Based%20Language%20Model%20Architecture.ipynb)
+
+### Transformer-Based Models
+*    [Self-attention Visualization](https://github.com/Mahiyat/llm-hands-on/blob/master/Transformer-Based%20Models/Self-attention%20Visualization.ipynb)
+*    [Positional Encoding](https://github.com/Mahiyat/llm-hands-on/blob/master/Transformer-Based%20Models/Positional%20Encoding.ipynb)
