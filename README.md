@@ -1,7 +1,7 @@
 # Large Language Model (LLM) Hands On
 
 Reference Book: Mastering Large Language Models [[Google Books Preview](https://www.google.com.bd/books/edition/Mastering_Large_Language_Models/xp_6EAAAQBAJ?hl=en&gbpv=1&printsec=frontcover)] [[Github Link](https://github.com/bpbpublications/Mastering-Large-Language-Models)]<br>
-Code Explanation: [Link](https://chatgpt.com/share/c9859544-85b4-4cbc-9998-015096c9e627)
+Code Explanation: [Link](https://chatgpt.com/share/6708c3e8-73a4-8005-a732-375750733b9c)
 
 ## Contents
 ### Rule-Based Models
