@@ -38,3 +38,8 @@ Code Explanation: [Link](https://chatgpt.com/share/6708c3e8-73a4-8005-a732-37575
 * [Designing a Word-level Text Generation Model](https://github.com/Mahiyat/llm-hands-on/blob/master/6_Training%20Large%20Language%20Models/6-3_Word-level%20Text%20Generation%20Model.ipynb)
 * [Designing a Word-level Text Generation Model with Large Dataset](https://github.com/Mahiyat/llm-hands-on/blob/master/6_Training%20Large%20Language%20Models/6-4_Word-level%20Text%20Generation%20Model%20with%20Large%20Dataset.ipynb)
 * [Text Generation Model Using T5](https://github.com/Mahiyat/llm-hands-on/blob/master/6_Training%20Large%20Language%20Models/6-5_Text%20Generation%20Model%20Using%20T5.ipynb)
+
+### Introduction to Ollama
+* [Inferencing Llama 3.2 Model Using Ollama Python Library](https://github.com/Mahiyat/llm-hands-on/blob/master/8_Introduction%20to%20Ollama/8-1_Llama%203.2%20Inference.ipynb)
+* [Inferencing Gemma 2 Model Using Ollama Python Library](https://github.com/Mahiyat/llm-hands-on/blob/master/8_Introduction%20to%20Ollama/8-2_Gemma%202%20Inference.ipynb)
+* [Inferencing Llava Model Using Ollama Python Library](https://github.com/Mahiyat/llm-hands-on/blob/master/8_Introduction%20to%20Ollama/8-3_Llava%20Inference.ipynb)
