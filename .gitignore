@@ -1,4 +1,4 @@
 .idea
-7_Fine Tuning Large Language Models/fine_tuned_gemma2_2b_it_qlora/*
-7_Fine Tuning Large Language Models/results/*
-10_Retrieval-Augmented Generation/pdf_directory/*
+007_Fine Tuning Large Language Models/fine_tuned_gemma2_2b_it_qlora/*
+007_Fine Tuning Large Language Models/results/*
+010_Retrieval-Augmented Generation/pdf_directory/*
