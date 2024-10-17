@@ -48,5 +48,5 @@ Code Explanation: [Link](https://chatgpt.com/share/6708c3e8-73a4-8005-a732-37575
 * [Inferencing Llava Model Using Ollama Python Library](https://github.com/Mahiyat/llm-hands-on/blob/master/8_Introduction%20to%20Ollama/8-3_Llava%20Inference.ipynb)
 
 ### Introduction to Langchain
-* [Inferencing Llama 3.2 Model Using Langchain and Ollama](https://github.com/Mahiyat/llm-hands-on/blob/master/9_Introduction%20to%20Langchain/9_1_Llama%203.2%20Inference.ipynb)
-* [Inferencing Llava Model Using Langchain and Ollama](https://github.com/Mahiyat/llm-hands-on/blob/master/9_Introduction%20to%20Langchain/9_2_Llava%20Inference.ipynb)
+* [Inferencing Llama 3.2 Model Using Langchain and Ollama](https://github.com/Mahiyat/llm-hands-on/blob/master/9_Introduction%20to%20Langchain/9-1_Llama%203.2%20Inference.ipynb)
+* [Inferencing Llava Model Using Langchain and Ollama](https://github.com/Mahiyat/llm-hands-on/blob/master/9_Introduction%20to%20Langchain/9-2_Llava%20Inference.ipynb)
