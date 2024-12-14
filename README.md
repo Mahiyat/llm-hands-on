@@ -53,6 +53,7 @@ Code Explanation: [Link](https://chatgpt.com/share/6708c3e8-73a4-8005-a732-37575
 
 ### Retrieval-Augmented Generation (RAG)
 * [Designing a Retrieval-Augmented Generation (RAG) Pipeline Using LlamaIndex and Ollama](https://github.com/Mahiyat/llm-hands-on/blob/master/010_Retrieval-Augmented%20Generation/10-1_RAG%20Pipeline%20Using%20LlamaIndex%20and%20Ollama.ipynb)
+* [Designing a Retrieval-Augmented Generation (RAG) Pipeline for Gemma 2 Model](https://github.com/Mahiyat/llm-hands-on/blob/master/010_Retrieval-Augmented%20Generation/10-2_RAG%20Pipeline%20for%20Gemma%202.ipynb)
 
 ### Prompt Engineering
 * [Types of Prompts](https://github.com/Mahiyat/llm-hands-on/blob/master/011_Prompt%20Engineering/11-1_Types%20of%20Prompts.ipynb)
